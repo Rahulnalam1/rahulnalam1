@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 - Please feel free to reach out to me anytime, always looking for new oppurtunities and ways to collaborate!👯
 
-<a href = "https://github.com/akelch11/akelch11/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akelch11&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff" />
+<a href = "https://github.com/Rahulnalam1/Rahulnalam1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulnalam1&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff" />
 </a>
 <br/>
-  <a href = "https://github.com/akelch11/akelch11/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akelch11&layout=compact&count_private=true&theme=tokyonight&hide=procfile&border_color=#fff" />
+  <a href = "https://github.com/Rahulnalam1/Rahulnalam1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulnalam1&layout=compact&count_private=true&theme=tokyonight&hide=procfile&border_color=#fff" />
   </a>
