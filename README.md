@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### Hi there, my name is Rahul! 👋
 
 - I'm currently🔭 working on a pokemon web application game that mimics the original top-down pokemon gamesthat nintendo has created in the past. I am also working on a spotify playlist generator for daring music listeners that want to try out new music. Both projects will be soon released in Fall 2022!!
-
 -👨🏾‍💻 I'm currently working as a Software Developer Intern at [Verizon](https://www.verizon.com/), where I work and develop digital content using C# and Solidity to create utility NFT Tokens and smart contracts for Verizon's private blockchain server. I work in the R&D team😄, so I'm always learning new technology!⚡
 - 🌱 I’m currently learning javascript and frameworks such as three.js and vue.js. I am also learning how to use tensorflow and other AI/ML algorithms and content. 
 - 📫 How to reach me: You can reach out to me at nalam.4@buckeyemail.osu.edu
