@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach out to me at nalam.4@buckeyemail.osu.edu
 - 📜 You can view my past work history on my [LinkedIn](https://www.linkedin.com/in/rahul-nalam-0976411b1/) profile.
 
+- I also worked on Variefy, a Spotify playlist generator app that recommends new and unfamiliar music that is similar to your current music taste using K-Means machine learning algorithm and the Spotify API!
+
 - Please feel free to reach out to me anytime, always looking for new oppurtunities and ways to collaborate!👯
 
 <a href = "https://github.com/Rahulnalam1/Rahulnalam1">
