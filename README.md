@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - Please feel free to reach out to me anytime, always looking for new oppurtunities and ways to collaborate!👯
 
+One thing that I want to clarify is that this github profile is different from others, as a 👨‍💼business enthusiast I like to showcase my quantitative 💵trading abilities!
+
 <a href = "https://github.com/Rahulnalam1/Rahulnalam1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulnalam1&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff" />
 </a>
