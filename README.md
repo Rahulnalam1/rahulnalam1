@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 One thing that I want to clarify is that this github profile is different from others, as a 👨‍💼business enthusiast I like to showcase my quantitative 💵trading abilities! I am also decentralized so basically I am an open book, you can check out a repo with my stock portfolio!
 
+--- STOCK PLAYS ---
+
+11/15/2022 -> Sold 1 call option (SPY) -> Profit: $150
+11/15/2022 -> Bought 1 call option (RIVN) -> Not Sold Yet.
+
 <a href = "https://github.com/Rahulnalam1/Rahulnalam1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulnalam1&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff" />
 </a>
