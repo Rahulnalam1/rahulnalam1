@@ -29,7 +29,8 @@ One thing that I want to clarify is that this github profile is different from o
 
 --- STOCK PLAYS ---
 
-11/15/2022 -> Sold 1 call option (SPY) -> Profit: $150
+11/15/2022 -> Sold 1 call option (SPY) -> Profit: $158
+
 11/15/2022 -> Bought 1 call option (RIVN) -> Not Sold Yet.
 
 <a href = "https://github.com/Rahulnalam1/Rahulnalam1">
