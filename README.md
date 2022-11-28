@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 One thing that I want to clarify is that this github profile is different from others, as a 👨‍💼business enthusiast I like to showcase my quantitative 💵trading abilities! I am also decentralized so basically I am an open book, you can check out a repo with my stock portfolio!
 
-                                                              --- STOCK PLAYS ---
+                                                               --- STOCK PLAYS ---
 
 11/15/2022 -> Sold 1 call option (SPY) -> Profit: $158
 
