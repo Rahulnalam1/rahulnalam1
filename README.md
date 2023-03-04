@@ -41,9 +41,13 @@ One thing that I want to clarify is that this github profile is different from o
 
 11/23/2022 -> Bought 2 call option (DELL) and 3 call option (SPY) -> Profit: $198 + $105
 
-11/28/2022 -> Bought 2 put option (COIN) -> Not Sold Yet.
+11/28/2022 -> Bought 2 put option (COIN) -> Sold 2 put options -> Profit: $96
 
-TOTAL PROFIT: $679
+11/30/2022 -> Bought 2 call option (GOOGL) -> Sold 2 call options -> Profit: $1,086
+
+12/30/2022 -> Bouht 2 put option (COIN) -> Sold 2 put options -> Profit $104
+
+TOTAL PROFIT: $2,165
 
 <a href = "https://github.com/Rahulnalam1/Rahulnalam1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulnalam1&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff" />
